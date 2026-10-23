@@ -27,4 +27,4 @@ for attempt in range(1, attempts + 1):
     else:
         print("Більше")
 else:
-    print(f"Спроби закінчилися. Було загадано {target_number}.")
+    print(f"Спроби закінчилися. Було загадано {target_number}.") 
