@@ -88,4 +88,4 @@ elif operation == '/':
     else:
         print(f"Результат: {a / b}")
 else:
-    print("Невідома операція!")
+    print("Невідома операція!") 
